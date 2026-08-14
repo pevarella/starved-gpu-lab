@@ -32,3 +32,7 @@ terraform.rc
 Thumbs.db
 .vscode/
 .idea/
+
+
+terraform/lambda/scale_down.zip
+terraform/response.json

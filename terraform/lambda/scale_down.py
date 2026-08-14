@@ -17,7 +17,7 @@ def lambda_handler(event, context):
         nodegroupName=node_group_name,
         scalingConfig={
             "minSize": 0,
-            "desireSize": 0,
+            "desiredSize": 0,
         },
     )
 
